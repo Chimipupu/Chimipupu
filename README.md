@@ -17,23 +17,3 @@ I am an embedded systems engineer (CPU Professional)🇯🇵
   - 📚X (Twitter) ... https://x.com/_chimipu_
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact)
-
-## Rust
-🔗Zenn「RustでCPUを自作して動くまで📝」
-- https://zenn.dev/chimipupu/articles/e0af6451e0cab9
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=cc8r_zenn)
-
-## C++
-### RP2040
-- I2C, SPI, UART, etc...
-- with FreeRTOS on Dual Core CPU
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=rp2040_dev)
-
-### ESP32
-
-- IoT (NTP, FTP, MQTT, ESP-NOW)
-- with FreeRTOS on Dual Core CPU
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=esp32_dev)
