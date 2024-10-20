@@ -1,36 +1,44 @@
-# Hi! There🐶 I'm Chimi(ちみ) 🇯🇵
-
-- [X(Twitter)] ... https://x.com/_chimipu_
-- [Zenn(Tech blog)] ... https://zenn.dev/chimipupu
-- [HomePage] ... https://lit.link/chimipupu
+# Hi! There🐶 I'm Chimi(ちみ)🇯🇵
 
 ## I'm Embedded Engineer🤖
 
-I am an embedded systems engineer (CPU Professional)🤖
+I am an embedded systems engineer (CPU Professional)🤖🇯🇵
 
-- 🤖Development ... C++, Rust
-- 🤖most use CPU ... ARM Cortex M, RISC-V RV32IMC, Xtensa, etc...
-- 🤖most use MCU ... RP2040, STM32, ESP32, etc...
+- [job]
+  - 🤖Development ... C++, Rust
+  - 🤖most use RTOS ... FreeRTOS, Zephyr, μITRON
+  - 🤖most use CPU ... ARM Cortex M, RISC-V RV32IMC, Xtensa, etc...
+  - 🤖most use MCU ... RP2040, STM32, ESP32, etc...
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact)
+- [more]
+  - 📚Zenn(Tech blog) ... https://zenn.dev/chimipupu
+  - 📚HomePage ... https://lit.link/chimipupu
+  - 📚X(Twitter) ... https://x.com/_chimipu_
 
-## My Best Projects
+</br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu" />
+</a>
+</br>
 
-## Embedded
+## Rust
+🔗Zenn「RustでCPUを自作して動くまで📝」
+- https://zenn.dev/chimipupu/articles/e0af6451e0cab9
 
-### RP2040
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=cc8r_zenn)
+
+## RP2040
 - I2C, SPI, UART, etc...
 - with FreeRTOS on Dual Core CPU
 
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=rp2040_dev)
 
-### ESP32
+## ESP32
 
 - IoT (NTP, FTP, MQTT, ESP-NOW)
 - with FreeRTOS on Dual Core CPU
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=esp32_dev&repo=cc8r_zenn)
-
-## Rust
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=cc8r_zenn)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=esp32_dev)
