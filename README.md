@@ -1,8 +1,9 @@
 # Hi! There🐶 I'm Chimi(ちみ)🇯🇵
 
-## I'm Embedded Engineer🤖
+## I'm Embedded Engineer🥳
+### I love C++, Rust & CPU🤖
 
-I am an embedded systems engineer (CPU Professional)🤖🇯🇵
+I am an embedded systems engineer (CPU Professional)🇯🇵
 
 - [job]
   - 🤖Development ... C++, Rust
@@ -11,18 +12,11 @@ I am an embedded systems engineer (CPU Professional)🤖🇯🇵
   - 🤖most use MCU ... RP2040, STM32, ESP32, etc...
 
 - [more]
-  - 📚Zenn(Tech blog) ... https://zenn.dev/chimipupu
+  - 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
   - 📚HomePage ... https://lit.link/chimipupu
-  - 📚X(Twitter) ... https://x.com/_chimipu_
+  - 📚X (Twitter) ... https://x.com/_chimipu_
 
-</br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu" />
-</a>
-</br>
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact)
 
 ## Rust
 🔗Zenn「RustでCPUを自作して動くまで📝」
@@ -30,13 +24,14 @@ I am an embedded systems engineer (CPU Professional)🤖🇯🇵
 
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=cc8r_zenn)
 
-## RP2040
+## C++
+### RP2040
 - I2C, SPI, UART, etc...
 - with FreeRTOS on Dual Core CPU
 
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Chimipupu&repo=rp2040_dev)
 
-## ESP32
+### ESP32
 
 - IoT (NTP, FTP, MQTT, ESP-NOW)
 - with FreeRTOS on Dual Core CPU
