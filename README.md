@@ -2,8 +2,6 @@
 
 I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
 
-****
-
 ## About me
 
 <div align="center">
@@ -23,6 +21,6 @@ I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
 ## more
 - 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
 - 📚HomePage ... https://lit.link/chimipupu
-- 📚X (Twitter) ... https://x.com/_chimipu_
+- 📚X (Twitter) ... [https://x.com/_chimipu_](https://x.com/_chimipu_)
 
 ****
