@@ -1,19 +1,30 @@
 # Hi! There🐶 I'm Chimi(ちみ)🇯🇵
 
-## I'm Embedded Engineer🥳
-### I love C++, Rust & CPU🤖
+I'm an embedded systems engineer (CPU/MCU Professional job)🇯🇵🥳
 
-I am an embedded systems engineer (CPU Professional)🇯🇵
+## About me
 
-- [job]
-  - 🤖Development ... C++, Rust
-  - 🤖most use RTOS ... FreeRTOS, Zephyr, μITRON
-  - 🤖most use CPU ... ARM Cortex M, RISC-V RV32IMC, Xtensa, etc...
-  - 🤖most use MCU ... RP2040, STM32, ESP32, etc...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact" alt="Top Languages Card (Compact layout)" width="500px" height="200px">
+</div>
 
-- [more]
-  - 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
-  - 📚HomePage ... https://lit.link/chimipupu
-  - 📚X (Twitter) ... https://x.com/_chimipu_
+### Job
+- 🤖Development ... C++, Rust, Python
+- 🤖most use RTOS ... FreeRTOS, Zephyr, TRON
+- 🤖most use CPU ... ARM Cortex-M, RISC-V(RV32IMC), Xtensa, etc...
+- 🤖most use MCU ... RP2040, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact)
+## more
+- 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
+- 📚HomePage ... https://lit.link/chimipupu
+- 📚X (Twitter) ... https://x.com/_chimipu_
+
+## I love Math📚
+
+```math
+e^{i\theta} = \cos\theta + i\sin\theta
+```
+
+```math
+e^{i\pi} + 1 = 0
+```
