@@ -1,19 +1,50 @@
 # Hi! There! I'm Chimi(ちみ)🥳🇯🇵
+I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
-I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
+## Skills
+
+<div align="left"> 
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Chimipupu&theme=vue-dark&layout=compact" />
+
+<div align="center"> 
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&
+perline=7&i=c,cpp,cmake,rust,java,gradle,python,js,linux,ubuntu,debian,raspberrypi,arduino,vscode" />
+</div>
+
+- 🚩Languages ... C, C++, Rust, Python,Java(Gradle), js
+- 🚩IDE ... VSCode, IntelliJ IDEA, RustRover, Arduino IDE,
+- 🚩RTOS ... FreeRTOS, Zephyr, TRON, T-Kernel
+- 🚩OS ... Windows, Linux(Ubuntu, Debian)
+- 🚩CPU ... ARM Cortex-M, RISC-V(RV32I), Xtensa, etc...
+- 🚩MCU ... RP2040, RP2350, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
+
 ## About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&layout=compact" alt="Top Languages Card (Compact layout)" width="500px" height="200px">
-</div>
+- 📚Name ... ちみ / Chimi
+- 💁‍♀️Age ... 20s
+- 🌏Country ... Japan 🇯🇵
+- 🛠️Job ... embedded systems engineer 🇯🇵
+- 🚩hobby
+  - 👩‍💻My OSS project develop
+  - 🛒Shopping
+  - 🎮Game (Switch or Steam)
+    - Pokect Monster（ポケモン）
+    - Monster Hunter（モンハン）
+    - Fallout 4, Fallout 76
+
+### more
+
+- 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
+- 📚HomePage ... https://lit.link/chimipupu
+- 📚X (Twitter) ... [https://x.com/_chimipu_](https://x.com/_chimipu_)
 
 ****
 
-### Job
-- 🤖Development ... C++, Rust, Python
-- 🤖most use RTOS ... FreeRTOS, Zephyr, TRON
-- 🤖most use CPU ... ARM Cortex-M, RISC-V(RV32IMC), Xtensa, etc...
-- 🤖most use MCU ... RP2040, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
+## My OSS Project (Best One)📚
+
+- https://github.com/Chimipupu/rp2040_dev
+- https://github.com/Chimipupu/esp32_dev
 
 <table>
   <tr>
@@ -21,12 +52,3 @@ I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
     <td><img src="/doc/img/IMG_20241108_195825.jpg"></td>
   </tr>
 </table>
-
-****
-
-## more
-- 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
-- 📚HomePage ... https://lit.link/chimipupu
-- 📚X (Twitter) ... [https://x.com/_chimipu_](https://x.com/_chimipu_)
-
-****
