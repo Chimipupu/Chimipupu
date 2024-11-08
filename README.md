@@ -1,7 +1,6 @@
 # Hi! There! I'm Chimi(ちみ)🥳🇯🇵
 
 I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
-
 ## About me
 
 <div align="center">
@@ -15,6 +14,13 @@ I'm an embedded systems engineer (CPU/MCU Professional job)🥳🇯🇵
 - 🤖most use RTOS ... FreeRTOS, Zephyr, TRON
 - 🤖most use CPU ... ARM Cortex-M, RISC-V(RV32IMC), Xtensa, etc...
 - 🤖most use MCU ... RP2040, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
+
+<table>
+  <tr>
+    <td><img src="/doc/img/IMG_20241108_195849.jpg"></td>
+    <td><img src="/doc/img/IMG_20241108_195825.jpg"></td>
+  </tr>
+</table>
 
 ****
 
