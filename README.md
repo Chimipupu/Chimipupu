@@ -3,13 +3,16 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
 ## Skills
 
-<div align="left"> 
+<div align="left">
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimipupu&theme=vue-dark&layout=compact" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Chimipupu&theme=vue-dark&layout=compact" />
 </div>
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&
-perline=7&i=c,cpp,cmake,rust,java,gradle,python,js,linux,ubuntu,debian,raspberrypi,arduino,vscode" />
+<br>
+
+<div align="center">
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cmake,rust,java,gradle,python,js,linux,ubuntu,debian,raspberrypi,arduino,vscode" />
+</div>
 <br>
 
 - 🚩Languages ... C, C++, Rust, Python,Java(Gradle), js
