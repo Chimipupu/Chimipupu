@@ -1,6 +1,18 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There! I'm Chimi(ちみ)🥳🇯🇵
 I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
+## My OSS Project (Best One)📚
+
+- https://github.com/Chimipupu/rp2040_dev
+- https://github.com/Chimipupu/esp32_dev
+
+<table>
+  <tr>
+    <td><img src="/doc/img/IMG_20241109_031836.jpg"></td>
+    <td><img src="/doc/img/IMG_20241109_031118.jpg"></td>
+  </tr>
+</table>
+
 ## Skills
 
 <div align="left">
@@ -43,15 +55,3 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 - 📚X (Twitter) ... [https://x.com/_chimipu_](https://x.com/_chimipu_)
 
 ****
-
-## My OSS Project (Best One)📚
-
-- https://github.com/Chimipupu/rp2040_dev
-- https://github.com/Chimipupu/esp32_dev
-
-<table>
-  <tr>
-    <td><img src="/doc/img/IMG_20241108_195849.jpg"></td>
-    <td><img src="/doc/img/IMG_20241108_195825.jpg"></td>
-  </tr>
-</table>
