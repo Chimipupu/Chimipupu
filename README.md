@@ -1,10 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There! I'm Chimi(ちみ)🥳🇯🇵
 I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
-## My OSS Project (Best One)📚
-
-- https://github.com/Chimipupu/rp2040_dev
-- https://github.com/Chimipupu/esp32_dev
+<div align="center">
+<img width="800" src="/doc/img/chimi_os_opmsg.gif">
+</div>
 
 <table>
   <tr>
