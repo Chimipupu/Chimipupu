@@ -1,8 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There! I'm Chimi(ちみ)🥳🇯🇵
 I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
-<div align="center">
+<!-- <div align="center">
 <img width="800" src="/doc/img/chimi_os_opmsg.gif">
+</div> -->
+
+<div align="center">
+  <img width="500" src="/doc/img/chimi_os_opmsg.png">
 </div>
 
 <table>
