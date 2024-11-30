@@ -6,7 +6,7 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 </div> -->
 
 <div align="center">
-  <img width="500" src="/doc/img/chimi_os_opmsg.png">
+  <img width="500" src="/doc/img/chimi_os_opmsg_ver1.0.3.png">
 </div>
 
 <table>
