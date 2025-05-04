@@ -21,7 +21,7 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 - 🚩OS ... Windows, Linux(Ubuntu, Debian)
 - 🚩CPU ... ARM Cortex-M, RISC-V(RV32I), Xtensa, etc...
 - 🚩MCU ... RP2040, RP2350, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
-- 🚩PCB(Home Made PCB) ... KiCad
+- 🚩PCB EDA ... KiCad
 
 ## About me💁‍♀️
 
@@ -31,6 +31,7 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 - 🛠️Job ... embedded systems engineer 🇯🇵
 - 🚩hobby
   - 👩‍💻My OSS project develop
+  - 🤖DIY home made PCB for my Robot
   - 🛒Shopping
   - 🎮Game (Switch or Steam)
     - Pocket Monster（ポケモン）
