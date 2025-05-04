@@ -1,21 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There! I'm Chimi(ちみ)🥳🇯🇵
 I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 
-<!-- <div align="center">
-<img width="800" src="/doc/img/chimi_os_opmsg.gif">
-</div> -->
-
-<div align="center">
-  <img width="500" src="/doc/img/chimi_os_opmsg_ver1.0.3.png">
-</div>
-
-<table>
-  <tr>
-    <td><img src="/doc/img/IMG_20241109_031836.jpg"></td>
-    <td><img src="/doc/img/IMG_20241109_031118.jpg"></td>
-  </tr>
-</table>
-
 ## Skills
 
 <div align="left">
@@ -30,14 +15,15 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 </div>
 <br>
 
-- 🚩Languages ... C, C++, Rust, Python,Java(Gradle), js
-- 🚩IDE ... VSCode, IntelliJ IDEA, RustRover, Arduino IDE,
+- 🚩Develop ... C, C++, Rust, Python,Java, js
+- 🚩IDE ... VSCode, Arduino IDE, IntelliJ IDEA, RustRover
 - 🚩RTOS ... FreeRTOS, Zephyr, TRON, T-Kernel
 - 🚩OS ... Windows, Linux(Ubuntu, Debian)
 - 🚩CPU ... ARM Cortex-M, RISC-V(RV32I), Xtensa, etc...
 - 🚩MCU ... RP2040, RP2350, ESP32, STM32, AVR, PIC, 6502, Z80, etc...
+- 🚩PCB(Home Made PCB) ... KiCad
 
-## About me
+## About me💁‍♀️
 
 - 📚Name ... ちみ / Chimi
 - 💁‍♀️Age ... 20s
@@ -47,14 +33,30 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
   - 👩‍💻My OSS project develop
   - 🛒Shopping
   - 🎮Game (Switch or Steam)
-    - Pokect Monster（ポケモン）
+    - Pocket Monster（ポケモン）
     - Monster Hunter（モンハン）
     - Fallout 4, Fallout 76
 
-### more
+<!-- <div align="center">
+<img width="800" src="/doc/img/chimi_os_opmsg.gif">
+</div> -->
+
+# My best project👩‍💻
+
+- [👩‍💻RP2040/2350 F/W](https://github.com/Chimipupu/rp2xxx_dev)
+- [👩‍💻ESP32 F\W](https://github.com/Chimipupu/esp32_dev)
+
+<div align="center">
+  <img width="400" src="/doc/img/chimi_os_opmsg_ver1.0.3.png">
+</div>
+
+<table>
+  <tr>
+    <td><img src="/doc/img/IMG_20241109_031836.jpg"></td>
+    <td><img src="/doc/img/IMG_20241109_031118.jpg"></td>
+  </tr>
+</table>
+
+### More info
 
 - 📚Zenn (Tech blog) ... https://zenn.dev/chimipupu
-- 📚HomePage ... https://lit.link/chimipupu
-- 📚X (Twitter) ... [https://x.com/_chimipu_](https://x.com/_chimipu_)
-
-****
