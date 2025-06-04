@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There
-I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
+I'm an embedded systems engineer (CPU/MCU Professional) / マイコン畑の組み込み屋さんです🥳 
 
 ---
 
@@ -13,12 +13,12 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 <br>
 
 <div align="center">
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cmake,rust,java,gradle,python,js,linux,ubuntu,debian,raspberrypi,arduino,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,rust,linux,raspberrypi,arduino,vscode" />
 </div>
 <br>
 
-- 🚩Languages ... C, C++, Rust, Python,Java(Gradle), js
-- 🚩IDE ... VSCode, IntelliJ IDEA, RustRover, Arduino IDE,
+- 🚩Languages ... C, C++, Rust
+- 🚩IDE ... VSCode, RustRover, Arduino IDE,Eclipce
 - 🚩RTOS ... FreeRTOS, Zephyr, TRON, T-Kernel
 - 🚩OS ... Windows, Linux(Ubuntu, Debian)
 - 🚩CPU ... ARM Cortex-M, RISC-V(RV32I), Xtensa, etc...
@@ -32,11 +32,11 @@ I'm an embedded systems engineer (CPU/MCU Professional)🥳🇯🇵
 - 📚Name ... ちみ / Chimi
 - 💁‍♀️Age ... 20s
 - 🌏Country ... Japan 🇯🇵
-- 🛠️Job ... embedded systems engineer 🇯🇵
+- 🛠️Job ... embedded systems engineer / マイコン畑の組み込み屋さん
 - 🚩hobby
+  - 🤖I love MCU / 趣味でもマイコンいじり
   - 👩‍💻My OSS project develop
   - 🛒Shopping
-  - 🎮Game (Switch or Steam)
-    - Pokect Monster（ポケモン）
+  - 🎮Game (On Steam PC)
     - Monster Hunter（モンハン）
     - Fallout 4, Fallout 76
