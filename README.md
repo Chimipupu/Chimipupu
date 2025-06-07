@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi There
-I'm an embedded systems engineer (CPU/MCU Professional) / マイコン畑の組み込み屋さんです🥳 
+I'm an embedded systems engineer (CPU/MCU Professional)
 
 ---
 
@@ -32,11 +32,4 @@ I'm an embedded systems engineer (CPU/MCU Professional) / マイコン畑の組�
 - 📚Name ... ちみ / Chimi
 - 💁‍♀️Age ... 20s
 - 🌏Country ... Japan 🇯🇵
-- 🛠️Job ... embedded systems engineer / マイコン畑の組み込み屋さん
-- 🚩hobby
-  - 🤖I love MCU / 趣味でもマイコンいじり
-  - 👩‍💻My OSS project develop
-  - 🛒Shopping
-  - 🎮Game (On Steam PC)
-    - Monster Hunter（モンハン）
-    - Fallout 4, Fallout 76
+- 🛠️Job ... embedded systems engineer
